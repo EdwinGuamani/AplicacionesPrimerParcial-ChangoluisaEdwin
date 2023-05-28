@@ -41,3 +41,4 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         Toast.makeText(getApplicationContext(), "El resultado es: "+res, Toast.LENGTH_LONG).show();
     }
 }
+![SUMAAAA](https://github.com/EdwinGuamani/AplicacionesPrimerParcial-ChangoluisaEdwin/assets/133244382/ce7c0d58-aefa-48a8-88e6-bf5da8d5a1e3)
